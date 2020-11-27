@@ -12,8 +12,6 @@ This is the official pytorch implementation of ConResNet:<br />
 ## Requirements
 Python 3.6<br />
 Torch==1.4.0<br />
-Apex==0.1<br />
-CUDA 10.0<br />
 
 ## Usage
 
@@ -24,8 +22,6 @@ git clone https://git.io/ConResNet
 cd ConResNet
 ```
 ### 1. Data Preparation
-* <br/>
-
 * Put the data and image_id_list in `dataset/`.
 
 ### 2. Training
