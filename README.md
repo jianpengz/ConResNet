@@ -1,5 +1,7 @@
 # ConResNet
-[IEEE-TMI2020] Inter-slice Context Residual Learning for 3D Medical Image Segmentation
+<p align="left">
+    <img src="conresnet.png" width="85%" height="85%">
+</p>
 
 
 This is the official pytorch implementation of ConResNet:<br />
