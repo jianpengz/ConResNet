@@ -12,6 +12,7 @@ This is the official pytorch implementation of ConResNet:<br />
 ## Requirements
 Python 3.6<br />
 Torch==1.4.0<br />
+apex==0.1<br />
 
 ## Usage
 
