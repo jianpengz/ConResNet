@@ -1,6 +1,6 @@
 # ConResNet
 <p align="left">
-    <img src="conresnet.png" width="85%" height="85%">
+    <img src="models/conresnet.png" width="85%" height="85%">
 </p>
 
 
