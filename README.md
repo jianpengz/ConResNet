@@ -8,6 +8,7 @@ This repo holds the pytorch implementation of ConResNet:<br />
 
 **Paper: Inter-slice Context Residual Learning for 3D Medical Image Segmentation.** 
 (https://ieeexplore.ieee.org/abstract/document/9245569) 
+(https://arxiv.org/pdf/2011.14155.pdf)
 
 ## Requirements
 Python 3.6<br />
