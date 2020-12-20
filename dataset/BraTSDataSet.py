@@ -108,15 +108,11 @@ class BraTSDataSet(data.Dataset):
 
         if self.is_mirror:
             randi = np.random.rand(1)
-            # 0:0.4, 1:0.2, 2:0.2, 3:0.2
-            if randi <= 0.2:
+            if randi <= 0.3:
                 pass
-            elif randi <= 0.3:
+            elif randi <= 0.4:
                 image = image[:, :, :, ::-1]
                 label = label[:, :, :, ::-1]
-            elif randi <= 0.4:
-                image = image[:, :, ::-1, :]
-                label = label[:, :, ::-1, :]
             elif randi <= 0.5:
                 image = image[:, :, ::-1, :]
                 label = label[:, :, ::-1, :]
