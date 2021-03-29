@@ -40,14 +40,13 @@ If this code is helpful for your study, please cite:
   title={Inter-slice Context Residual Learning for 3D Medical Image Segmentation},
   author={Zhang, Jianpeng and Xie, Yutong and Wang, Yan and Xia, Yong},
   journal={IEEE Transactions on Medical Imaging},
-  volume={},
-  number={},
-  pages={1-1},
-  year={2020},
+  volume={40},
+  number={2},
+  pages={661-672},
+  year={2021},
   publisher={IEEE}
 }
 ```
-
 
 ### Contact
 Jianpeng Zhang (james.zhang@mail.nwpu.edu.cn)
